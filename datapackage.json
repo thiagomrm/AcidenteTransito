@@ -1,0 +1,53 @@
+{
+  "resources": [
+    {
+      "path": "dados_acidentes_terrestres.csv",
+      "name": "dados_acidentes_terrestres",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8-sig",
+      "dialect": {
+        "delimiter": ";"
+      },
+      "schema": {
+        "fields": [
+          {
+            "name": "dt_obito",
+            "type": "string"
+          },
+          {
+            "name": "dt_nascimento",
+            "type": "string"
+          },
+          {
+            "name": "nu_idade",
+            "type": "integer"
+          },
+          {
+            "name": "sg_sexo",
+            "type": "string"
+          },
+          {
+            "name": "tp_raca_cor",
+            "type": "string"
+          },
+          {
+            "name": "co_municipio_ibge_residencia",
+            "type": "string"
+          },
+          {
+            "name": "co_municipio_ibge_ocorrencia",
+            "type": "string"
+          },
+          {
+            "name": "co_cid_causa_basica",
+            "type": "string"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package"
+}
