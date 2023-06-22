@@ -34,35 +34,67 @@
         "fields": [
           {
             "name": "dt_obito",
-            "type": "string"
+            "type": "string",
+            "title": "Data do Óbito",
+            "description": "Data do Óbito"
           },
           {
             "name": "dt_nascimento",
-            "type": "string"
+            "type": "string",
+            "title": "Data de Nascimento",
+            "description": "Data de Nascimento"
           },
           {
             "name": "nu_idade",
-            "type": "integer"
+            "type": "integer",
+            "title": "Idade",
+            "description": "Idade"
           },
           {
             "name": "sg_sexo",
-            "type": "string"
+            "type": "string",
+            "title": "Sexo",
+            "description": "Sexo",
+            "constraints": {
+              "enum": [
+                "Feminino",
+                "Masculino"
+              ]
+            }
           },
           {
             "name": "tp_raca_cor",
-            "type": "string"
+            "type": "string",
+            "title": "Raça/Cor",
+            "description": "Raça/Cor",
+            "constraints": {
+              "enum": [
+                "Branca",
+                "Preta",
+                "Amarela",
+                "Parda",
+                "Indígena",
+                "Ignorado"
+              ]
+            }
           },
           {
             "name": "co_municipio_ibge_residencia",
-            "type": "string"
+            "type": "string",
+            "title": "Município de residência",
+            "description": "Município de residência"
           },
           {
             "name": "co_municipio_ibge_ocorrencia",
-            "type": "string"
+            "type": "string",
+            "title": "Município de Ocorrência",
+            "description": "Município de Ocorrência"
           },
           {
             "name": "co_cid_causa_basica",
-            "type": "string"
+            "type": "string",
+            "title": "Descrição do CID",
+            "description": "Descrição do CID do óbito"
           }
         ]
       }
