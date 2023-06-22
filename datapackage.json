@@ -1,8 +1,27 @@
 {
+  "name": "dados_acidentes_terrestres",
+  "title": "Dados de Acidentes Terrestre",
+  "owner_org": "secretaria-de-estado-de-saude-ses",
+  "frequência de atualização": "mensal",
+  "version": "0.1.0",
+  "licenses": [
+    {
+      "name": "CC-BY-4.0",
+      "title": "Creative Commons Attribution 4.0",
+      "path": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  ],
+  "keywords": [
+    "Acidentes",
+    "Mortes por acidente"
+  ],
+  "scheme": "file",
   "resources": [
     {
       "path": "dados_acidentes_terrestres.csv",
+      "title": "Dados de Acidentes Terrestre",
       "name": "dados_acidentes_terrestres",
+      "owner_org": "secretaria-de-estado-de-saude-ses",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
