@@ -2,9 +2,9 @@
 
 Saiba como contribuir com a documentação deste conjunto de dados!
 
-A documentação deste conjunto de dados está sendo feita de forma aberta e colaborativa no [Github](). Existem duas alternativas para enviar sua contribuição:
+A documentação deste conjunto de dados está sendo feita de forma aberta e colaborativa no [Github](https://github.com/thiagomrm/AcidenteTransito). Existem duas alternativas para enviar sua contribuição:
 
-- [Pull requests](): Para sugerir uma alteração concreta na documentação.
+- [Pull requests](https://github.com/thiagomrm/AcidenteTransito/pulls): Para sugerir uma alteração concreta na documentação.
 
 Todas as contribuições são bem vindas. Alguns exemplos são:
 

@@ -4,6 +4,19 @@
   "owner_org": "secretaria-de-estado-de-saude-ses",
   "frequência de atualização": "mensal",
   "version": "0.1.0",
+  "homepage": "http://vigilancia.saude.mg.gov.br",
+  "contributors": [
+    {
+      "title": "Diretoria de Vigilância de Condições Crônicas",
+      "role": "author",
+      "email": "dvcc@saude.mg.gov.br"
+    },
+    {
+      "title": "Diretoria Central de Transparência Ativa da Controladoria-Central do Estado",
+      "role": "maintainer",
+      "email": "transparencia@cge.mg.gov.br"
+    }
+  ],
   "licenses": [
     {
       "name": "CC-BY-4.0",
