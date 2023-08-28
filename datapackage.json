@@ -1,6 +1,6 @@
 {
   "name": "dados_acidentes_terrestres",
-  "title": "Dados de Acidentes Terrestre",
+  "title": "Dados de Acidentes Terrestres",
   "owner_org": "secretaria-de-estado-de-saude-ses",
   "frequência de atualização": "mensal",
   "version": "0.1.0",
@@ -19,7 +19,7 @@
   "resources": [
     {
       "path": "data/dados_acidentes_terrestres.csv",
-      "title": "Dados de Acidentes Terrestre",
+      "title": "Dados de Acidentes Terrestres",
       "name": "dados_acidentes_terrestres",
       "owner_org": "secretaria-de-estado-de-saude-ses",
       "profile": "tabular-data-resource",
