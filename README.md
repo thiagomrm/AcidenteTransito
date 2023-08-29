@@ -13,7 +13,7 @@ Com sua longa série temporal, o SIM é um patrimônio nacional, visto que possu
 
 Uma das informações disponíveis no SIM é a causa básica de óbito, a qual é codificada a partir das informações declaradas pelo médico atestante, segundo regras estabelecidas pela Organização Mundial de Saúde.
 
-Para fins de definição, os ATT são agrupados, considerando-se os códigos que constam na 10ª revisão da Classificação Internacional de Doenças (CID-10), listados a seguir: 
+Para fins de definição, os ATT são agrupados, considerando-se os códigos que constam na 10ª revisão da [Classificação Internacional de Doenças (CID-10)](http://www2.datasus.gov.br/cid10/V2008/cid10.htm), listados a seguir: 
 
 * V01-V09 Pedestre traumatizado em um acidente de transporte
 * V10-V19 Ciclista traumatizado em um acidente de transporte

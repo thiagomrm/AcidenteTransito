@@ -106,6 +106,12 @@
           {
             "name": "co_cid_causa_basica",
             "type": "string",
+            "title": "Código do CID",
+            "description": "Código do CID do óbito"
+          },
+          {
+            "name": "desc_cid_causa_basica",
+            "type": "string",
             "title": "Descrição do CID",
             "description": "Descrição do CID do óbito"
           }
